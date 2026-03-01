@@ -1,4 +1,4 @@
-# Hi there, I'm Dhruw Shekhar 👋
+# Hi there, I'm Dhruw 👋
 
 **IT Analyst @ Amicus Technology | Executive M.Tech Scholar (Data Science & Analytics) @ IIT Bhilai**
 
