@@ -21,9 +21,6 @@ I am a data professional bridging the gap between IT operations and advanced ana
 **Big Data & DevOps:** `Hadoop` | `HDFS` | `Docker`
 
 ---
-
-### 📂 Featured Personal Projects
-
 ### 📂 Featured Personal Projects
 
 * **EventSnap (SEPSA):** An AI-powered smart event photo-sharing platform that utilizes facial recognition (DeepFace/OpenCV) to automatically curate and deliver personalized image galleries securely. Developed using `Python (FastAPI)`, `Next.js 16`, and containerized with `Docker`.
